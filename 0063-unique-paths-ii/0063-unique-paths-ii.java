@@ -1,5 +1,5 @@
 class Solution {
-    int[][]dp;
+    
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
@@ -20,4 +20,5 @@ class Solution {
         int down = helper(obstacleGrid,i,j+1);
         return dp[i][j] = right+down;
     }
+    int[][]dp;
 }
