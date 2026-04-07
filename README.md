@@ -36,12 +36,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/Priyanshuraman5/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/Priyanshuraman5/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -49,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Priyanshuraman5/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 <!---LeetCode Topics End-->
