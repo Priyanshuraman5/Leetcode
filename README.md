@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,12 +107,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 <!---LeetCode Topics End-->
