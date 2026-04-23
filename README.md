@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Priyanshuraman5/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Priyanshuraman5/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0994-rotting-oranges](https://github.com/Priyanshuraman5/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Union-Find
