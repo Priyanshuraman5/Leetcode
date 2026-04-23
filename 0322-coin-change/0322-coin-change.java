@@ -15,11 +15,10 @@ class Solution {
                 int exclude = dp[row-1][col];
                 int include = Integer.MAX_VALUE;
                 if(coins[row]<=col && dp[row][col-coins[row]] != Integer.MAX_VALUE){
-                    dp[row][col] = 1 + dp[row][col-coins[row]];
+                    include = 1 + dp[row][col-coins[row]];
                 }
-                else{
-                    dp[row][col] = Math.min(include,exclude);
-                }
+                dp[row][col] = Math.min(include,exclude);
+                
             }
         }
         if(dp[n-1][amount]==Integer.MAX_VALUE) return -1;
