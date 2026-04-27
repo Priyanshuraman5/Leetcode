@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/Priyanshuraman5/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Priyanshuraman5/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Priyanshuraman5/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Priyanshuraman5/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -150,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
