@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Priyanshuraman5/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1046-last-stone-weight](https://github.com/Priyanshuraman5/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +167,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/0796-rotate-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/Priyanshuraman5/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
