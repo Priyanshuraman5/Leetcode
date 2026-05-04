@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshuraman5/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Priyanshuraman5/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshuraman5/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshuraman5/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Priyanshuraman5/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshuraman5/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyanshuraman5/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Priyanshuraman5/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshuraman5/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
