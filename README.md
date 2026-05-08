@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Priyanshuraman5/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/Priyanshuraman5/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0994-rotting-oranges](https://github.com/Priyanshuraman5/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -190,10 +192,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Priyanshuraman5/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Priyanshuraman5/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
