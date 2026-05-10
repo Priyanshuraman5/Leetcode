@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Priyanshuraman5/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Priyanshuraman5/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyanshuraman5/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Priyanshuraman5/Leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyanshuraman5/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
