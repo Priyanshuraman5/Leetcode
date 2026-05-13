@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshuraman5/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshuraman5/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshuraman5/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshuraman5/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Priyanshuraman5/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshuraman5/Leetcode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Priyanshuraman5/Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
