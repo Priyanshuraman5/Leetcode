@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Priyanshuraman5/Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0733-flood-fill](https://github.com/Priyanshuraman5/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/Priyanshuraman5/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
