@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Priyanshuraman5/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Priyanshuraman5/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/Priyanshuraman5/Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Priyanshuraman5/Leetcode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Priyanshuraman5/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyanshuraman5/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
