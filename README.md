@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Priyanshuraman5/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Priyanshuraman5/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/Priyanshuraman5/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Priyanshuraman5/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
