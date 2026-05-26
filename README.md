@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/Priyanshuraman5/Leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Priyanshuraman5/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshuraman5/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Priyanshuraman5/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Sliding Window
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/Priyanshuraman5/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshuraman5/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshuraman5/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
