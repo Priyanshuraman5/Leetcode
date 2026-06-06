@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Priyanshuraman5/Leetcode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1046-last-stone-weight](https://github.com/Priyanshuraman5/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Priyanshuraman5/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyanshuraman5/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -280,4 +281,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshuraman5/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Priyanshuraman5/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
