@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/Priyanshuraman5/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/Priyanshuraman5/Leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Priyanshuraman5/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshuraman5/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/Priyanshuraman5/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Trie
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0455-assign-cookies](https://github.com/Priyanshuraman5/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshuraman5/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/Priyanshuraman5/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshuraman5/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
