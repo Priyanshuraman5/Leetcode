@@ -4,22 +4,25 @@ class Solution {
         int m = word1.length();
         int n = word2.length();
         dp = new Integer[m][n];
-        return helper(word1,word2,m-1,n-1);
+        return helper(word1, word2, 0, 0);
     }
-    public int helper(String word1, String word2, int i, int j){
-        if( i<0 ) return j+1;
-        if( j<0 ) return i+1;
+    public int helper(String word1, String word2, int idx1, int idx2){
+        int m = word1.length();
+        int n = word2.length();
 
-        if(dp[i][j] != null) return dp[i][j];
+        if(idx1>=m) return n - idx2;
+        if(idx2>=n) return m - idx1;
 
-        if(word1.charAt(i)==word2.charAt(j)) return helper(word1,word2,i-1,j-1);
+        if(dp[idx1][idx2]!=null) return dp[idx1][idx2];
 
+        if(word1.charAt(idx1) == word2.charAt(idx2)){
+            return helper(word1, word2, idx1+1, idx2+1);
+        }
         else{
-            int replace = helper(word1,word2,i-1,j-1);
-            int insert =  helper(word1,word2,i-1,j);
-            int delete =  helper(word1,word2,i,j-1);
-            int max = 1 + Math.min(replace,Math.min(insert,delete));
-            return dp[i][j] = max;
+            int insert =  helper(word1, word2, idx1, idx2+1);
+            int delete = helper(word1, word2, idx1+1, idx2);
+            int replace =  helper(word1, word2, idx1+1, idx2+1);
+            return dp[idx1][idx2] = 1 + Math.min(replace,Math.min(delete,insert));
         }
     }
 }
