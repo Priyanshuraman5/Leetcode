@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Priyanshuraman5/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Priyanshuraman5/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/Priyanshuraman5/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Priyanshuraman5/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshuraman5/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0283-move-zeroes](https://github.com/Priyanshuraman5/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Priyanshuraman5/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
