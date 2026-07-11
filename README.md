@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Priyanshuraman5/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/Priyanshuraman5/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0268-missing-number](https://github.com/Priyanshuraman5/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshuraman5/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyanshuraman5/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Priyanshuraman5/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Priyanshuraman5/Leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-unique-paths-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Priyanshuraman5/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
