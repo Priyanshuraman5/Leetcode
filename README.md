@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Priyanshuraman5/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Priyanshuraman5/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Priyanshuraman5/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Priyanshuraman5/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0039-combination-sum/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshuraman5/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Priyanshuraman5/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Priyanshuraman5/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0061-rotate-list/) | Medium |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Priyanshuraman5/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Priyanshuraman5/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Priyanshuraman5/Leetcode/tree/main/0268-missing-number/) | Easy |
