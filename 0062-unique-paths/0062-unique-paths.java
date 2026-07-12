@@ -1,18 +1,16 @@
 class Solution {
-    int[][] dp;
+    Integer[][] dp;
     public int uniquePaths(int m, int n) {
-        dp = new int[m][n];
-        for(int[]rows:dp){
-            Arrays.fill(rows,-1);
-        }
-        return helper(m-1,n-1);
+        dp = new Integer[m][n];
+        return helper(m,n,0,0);
     }
-    public int helper(int m, int n){
-        if(m<0 || n<0) return 0;
-        if(m==0 && n== 0) return 1;
-        if(dp[m][n]!=-1) return dp[m][n];
-        int top = helper(m-1,n);
-        int left = helper(m,n-1);
-        return dp[m][n] = top+left;
+    public int helper(int m, int n, int i, int j){
+        if(i>=m || j>=n) return 0;
+        if(i==m-1 && j==n-1) return 1;
+        if(dp[i][j]!=null) return dp[i][j];
+        int pick1 = helper(m,n,i+1,j);
+        int pick2 = helper(m,n,i,j+1);
+
+        return dp[i][j] = pick1 + pick2;
     }
 }
