@@ -2,7 +2,7 @@ class Solution {
     class Pair{
         int row;
         int col;
-        Pair(int row,int col){
+        public Pair(int row, int col){
             this.row = row;
             this.col = col;
         }
@@ -14,38 +14,40 @@ class Solution {
         int fresh = 0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                if(grid[i][j]==1) fresh++;
-                else if(grid[i][j]==2) q.add(new Pair(i,j));
+                if(grid[i][j]==0) continue;
+                else if(grid[i][j] == 1) fresh++;
+                else{
+                    q.add(new Pair(i,j));
+                }
             }
         }
-        if(fresh==0) return 0;
         boolean[][] isVis = new boolean[m][n];
-        int minutes = 0;
+        if(fresh==0) return 0;
+        int minutes = -1;
+        
         while(!q.isEmpty()){
             int size = q.size();
-            boolean flag = false;
             while(size!=0){
                 Pair p = q.poll();
-                int pRow = p.row;
-                int pCol = p.col;
-                int[] remRow = {0,-1,0,1};
-                int[] remCol = {1,0,-1,0};
+                int currRow = p.row;
+                int currCol = p.col;
+                int[] remRow = {1,-1,0,0};
+                int[] remCol = {0,0,-1,1};
                 for(int i=0;i<4;i++){
-                    int newRow = remRow[i] + pRow;
-                    int newCol = remCol[i] + pCol;
+                    int newRow = remRow[i] + currRow;
+                    int newCol = remCol[i] + currCol;
                     if(newRow>=0 && newCol>=0 && newRow<m && newCol<n && grid[newRow][newCol]==1 && !isVis[newRow][newCol]){
-                        isVis[newRow][newCol] = true;
                         q.add(new Pair(newRow,newCol));
-                        flag = true; 
-                        grid[newRow][newCol] = 2;
+                        isVis[newRow][newCol] = true;
                         fresh--;
                     }
                 }
                 size--;
             }
-            if(flag) minutes++;
+            minutes++;
         }
         if(fresh!=0) return -1;
         return minutes;
+
     }
 }
