@@ -8,22 +8,19 @@ class Solution {
                 bfs(grid,i,0,isVis);
             }
         }
-
+        for(int i=0;i<m;i++){
+            if(grid[i][n-1]==1 && !isVis[i][n-1]){
+                bfs(grid,i,n-1,isVis);
+            }
+        }
         for(int i=0;i<n;i++){
             if(grid[0][i]==1 && !isVis[0][i]){
                 bfs(grid,0,i,isVis);
             }
         }
-
         for(int i=0;i<n;i++){
             if(grid[m-1][i]==1 && !isVis[m-1][i]){
                 bfs(grid,m-1,i,isVis);
-            }
-        }
-
-        for(int i=0;i<m;i++){
-            if(grid[i][n-1]==1 && !isVis[i][n-1]){
-                bfs(grid,i,n-1,isVis);
             }
         }
         int count = 0;
@@ -39,29 +36,29 @@ class Solution {
     class Pair{
         int row;
         int col;
-        Pair(int row, int col){
+        public Pair(int row, int col){
             this.row = row;
             this.col = col;
         }
     }
-    public void bfs(int[][]grid, int i, int j, boolean[][]isVis ){
-        int m = grid.length;
-        int n = grid[0].length;
+    public void bfs(int[][] isConnected,int row, int col,boolean[][] isVis){
+        int m = isConnected.length;
+        int n = isConnected[0].length;
         Queue<Pair> q = new LinkedList<>();
-        q.add(new Pair(i,j));
-        isVis[i][j] = true;
-         while(!q.isEmpty()){
+        q.add(new Pair(row,col));
+        isVis[row][col] = true;
+        while(!q.isEmpty()){
             Pair p = q.poll();
-            int pRow = p.row;
-            int pCol = p.col;
-            int[] remRow = {0,0,-1,1};
-            int[] remCol = {1,-1,0,0};
-            for(int k=0;k<4;k++){
-                int newRow = remRow[k] + pRow;
-                int newCol = remCol[k] + pCol;
-                if(newRow>=0 && newCol>=0 && newRow<m && newCol<n && grid[newRow][newCol]==1 && !isVis[newRow][newCol]){
-                    isVis[newRow][newCol] = true;
+            int currRow = p.row;
+            int currCol = p.col;
+            int[] remRow = {1,-1,0,0};
+            int[] remCol = {0,0,-1,1};
+            for(int i=0;i<4;i++){
+                int newRow = remRow[i] + currRow;
+                int newCol = remCol[i] + currCol;
+                if(newRow>=0 && newCol>=0 && newRow<m && newCol<n && isConnected[newRow][newCol]==1 && !isVis[newRow][newCol]){
                     q.add(new Pair(newRow,newCol));
+                    isVis[newRow][newCol] = true;
                 }
             }
         }
