@@ -1,60 +1,39 @@
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        
-        List<List<int[]>> adj = new ArrayList<>();
-
+        ArrayList<ArrayList<int[]>> adj = new ArrayList<>();
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
 
-        for(int[] f:flights){
-            adj.get(f[0]).add(new int[]{f[1],f[2]});
+        for(int i=0;i<flights.length;i++){
+            int from = flights[i][0];
+            int to = flights[i][1];
+            int price = flights[i][2];
+            adj.get(from).add(new int[]{to,price});
         }
 
-        int ans = Integer.MAX_VALUE;
-        Queue<Pair> q = new LinkedList<>();
-        int[] cost = new int[n];
-        Arrays.fill(cost,Integer.MAX_VALUE);
-        q.add(new Pair(src,0,0));
-        cost[src] = 0;
-        while(!q.isEmpty()){
-            Pair p = q.poll();
-            int node = p.node;
-            int popcost = p.cost;
-            int stops = p.stops;
-            if(stops>k+1) continue;
+        Queue<int[]> pq = new LinkedList<>();
+        pq.add(new int[]{src,0,0});
+        int[] dist = new int[n];
+        Arrays.fill(dist,Integer.MAX_VALUE);
+        dist[src] = 0;
 
-            if(node == dst) {
-                ans = Math.min(ans,popcost);
-            }
-            for(int[] curr : adj.get(node)){
-                int neigh = curr[0];
-                int currCost = curr[1];
-
-                int newCost = currCost + popcost;
-                if(newCost < cost[neigh]){
-                    cost[neigh] = newCost;
-                    q.add(new Pair(neigh,newCost,stops+1));
+        while(!pq.isEmpty()){
+            int[] poll = pq.poll();
+            int node = poll[0];
+            int val = poll[1];
+            int stop = poll[2];
+            if(stop>k) continue;
+            for(int[] neigh:adj.get(node)){
+                int nextNode = neigh[0];
+                int nextVal = neigh[1];
+                if(dist[nextNode]>val+nextVal){
+                    dist[nextNode] = val + nextVal;
+                    pq.add(new int[]{nextNode,dist[nextNode],stop+1});
                 }
-
             }
         }
+        return dist[dst]==Integer.MAX_VALUE ?  -1: dist[dst];
 
-        if(ans == Integer.MAX_VALUE){
-            return -1;
-        }
-        return ans;
-
-
-    }
-    class Pair{
-        int node;
-        int cost;
-        int stops;
-        public Pair(int node, int cost, int stops){
-            this.node = node;
-            this.cost = cost;
-            this.stops = stops;
-        }
     }
 }
