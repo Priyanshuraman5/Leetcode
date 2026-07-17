@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Priyanshuraman5/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/Priyanshuraman5/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0860-lemonade-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Priyanshuraman5/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Priyanshuraman5/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Priyanshuraman5/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Priyanshuraman5/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshuraman5/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
