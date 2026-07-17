@@ -1,17 +1,37 @@
+// class Solution {
+//     public int jump(int[] nums) {
+//         int n = nums.length;
+        
+//         return helper(nums,0,n);
+//     }
+//     public int helper(int[]nums, int idx,int n){
+//         if(idx==n-1) return 0;
+
+//         if(idx>=n) return Integer.MAX_VALUE;
+//         int pick = Integer.MAX_VALUE;
+//         for(int i=idx+1;i<=Math.min(nums[idx]+idx,n-1);i++){
+//             int temp= helper(nums,i,n);
+//             if(temp!=Integer.MAX_VALUE){
+//                 pick =  Math.min(1 +temp,pick);
+//             }
+//         }
+//         return pick;
+//     }
+// }
+
 class Solution {
-    Integer[]dp;
     public int jump(int[] nums) {
-        dp = new Integer[nums.length];
-        return helper(nums,0);
-    }
-    public int helper(int[] nums,int idx){
-        if(idx>=nums.length-1) return 0;
-        if(dp[idx]!=null) return dp[idx];
-        int min = Integer.MAX_VALUE;
-        for(int i=1;i<=nums[idx];i++){
-            int ans = helper(nums,idx+i);
-            if(ans!=Integer.MAX_VALUE) min = Math.min(min,1+ans);
+        int n = nums.length;
+        int maxidx = 0;
+        int curr = 0;
+        int step = 0;
+        for(int i=0;i<n-1;i++){
+            maxidx = Math.max(maxidx,i+nums[i]);
+            if(i==curr){
+                step++;
+                curr = maxidx;
+            }
         }
-        return dp[idx] =  min;
+        return step;
     }
 }
