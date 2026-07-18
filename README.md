@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshuraman5/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0135-candy](https://github.com/Priyanshuraman5/Leetcode/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Priyanshuraman5/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanshuraman5/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/Priyanshuraman5/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshuraman5/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0135-candy](https://github.com/Priyanshuraman5/Leetcode/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Priyanshuraman5/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshuraman5/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
