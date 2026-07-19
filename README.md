@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshuraman5/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Priyanshuraman5/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshuraman5/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Priyanshuraman5/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0860-lemonade-change](https://github.com/Priyanshuraman5/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Priyanshuraman5/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Priyanshuraman5/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/Priyanshuraman5/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
