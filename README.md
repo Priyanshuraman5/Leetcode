@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Priyanshuraman5/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Priyanshuraman5/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Priyanshuraman5/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Priyanshuraman5/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Recursion
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshuraman5/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Priyanshuraman5/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Priyanshuraman5/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/Priyanshuraman5/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1035-uncrossed-lines](https://github.com/Priyanshuraman5/Leetcode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1046-last-stone-weight](https://github.com/Priyanshuraman5/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyanshuraman5/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshuraman5/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshuraman5/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshuraman5/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Priyanshuraman5/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Priyanshuraman5/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Counting
