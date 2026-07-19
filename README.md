@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshuraman5/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Priyanshuraman5/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyanshuraman5/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshuraman5/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshuraman5/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshuraman5/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyanshuraman5/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshuraman5/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshuraman5/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshuraman5/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Priyanshuraman5/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Priyanshuraman5/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Counting
