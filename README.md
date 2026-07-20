@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshuraman5/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Priyanshuraman5/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Priyanshuraman5/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Priyanshuraman5/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshuraman5/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Priyanshuraman5/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Priyanshuraman5/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0072-edit-distance](https://github.com/Priyanshuraman5/Leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0242-valid-anagram](https://github.com/Priyanshuraman5/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanshuraman5/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Priyanshuraman5/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Priyanshuraman5/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Priyanshuraman5/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Priyanshuraman5/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshuraman5/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Priyanshuraman5/Leetcode/tree/main/0455-assign-cookies/) | Easy |
