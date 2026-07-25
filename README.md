@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshuraman5/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0044-wildcard-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/0394-decode-string/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshuraman5/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Priyanshuraman5/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Priyanshuraman5/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0044-wildcard-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Priyanshuraman5/Leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Priyanshuraman5/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
