@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshuraman5/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0044-wildcard-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Priyanshuraman5/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/0394-decode-string/) | Medium |
 ## Hash Table
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshuraman5/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Priyanshuraman5/Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Priyanshuraman5/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0044-wildcard-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/Priyanshuraman5/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Priyanshuraman5/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyanshuraman5/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Priyanshuraman5/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshuraman5/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshuraman5/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/Priyanshuraman5/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Priyanshuraman5/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshuraman5/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
