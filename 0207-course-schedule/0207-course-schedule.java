@@ -1,38 +1,35 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
+    public boolean canFinish(int num, int[][] pre) {
+        int n = pre.length;
         List<List<Integer>> adj = new ArrayList<>();
-
-        for(int i=0;i<numCourses;i++){
+        for(int i=0;i<num;i++){
             adj.add(new ArrayList<>());
         }
-        for(int i=0;i<prerequisites.length;i++){
-            int u = prerequisites[i][0];
-            int v = prerequisites[i][1];
+        for(int i=0;i<pre.length;i++){
+            int u = pre[i][0];
+            int v = pre[i][1];
             adj.get(v).add(u);
         }
-
-        int[] inDeg = new int[numCourses];
-        for(int i=0;i<numCourses;i++){
-            for(int list : adj.get(i)){
-                inDeg[list]++;
+        int[] inDeg = new int[num];
+        for(int i=0;i<num;i++){
+            for(int neigh:adj.get(i)){
+                inDeg[neigh]++;
             }
         }
         Queue<Integer> q = new LinkedList<>();
-        for(int i=0;i<numCourses;i++){
+        for(int i=0;i<num;i++){
             if(inDeg[i]==0) q.add(i);
         }
         int count = 0;
         while(!q.isEmpty()){
-            int node = q.poll();
+            int poll = q.poll();
             count++;
-            for(int neigh:adj.get(node)){
+            for(int neigh:adj.get(poll)){
                 inDeg[neigh]--;
                 if(inDeg[neigh]==0) q.add(neigh);
             }
         }
-        return (count==numCourses) ;
+        return count == num;
 
-        
-        
     }
 }
