@@ -1,30 +1,30 @@
 class Solution {
+    public void bfs(int[][] isConnected,int i, boolean[]isVis){
+        int n = isConnected.length;
+        Queue<Integer> q = new LinkedList<>();
+        q.add(i);
+        isVis[i] = true;
+        while(!q.isEmpty()){
+            int poll = q.poll();
+            for(int j=0;j<n;j++){
+                if(isConnected[poll][j]==1 && !isVis[j]){
+                    isVis[j] = true;
+                    q.add(j);
+                }
+            }
+        }
+    }
     public int findCircleNum(int[][] isConnected) {
-        int m = isConnected.length;
-        int n = isConnected[0].length;
+        int n = isConnected.length;
+        boolean[]isVis = new boolean[n];
         int count = 0;
-        boolean[] isVis = new boolean[m];
-        for(int i=0;i<m;i++){
+        for(int i=0;i<n;i++){
             if(!isVis[i]){
                 bfs(isConnected,i,isVis);
                 count++;
             }
         }
         return count;
-    }
-    public void bfs(int[][] isConnected,int src,boolean[] isVis){
-        Queue<Integer> q = new LinkedList<>();
-        q.add(src);
-        isVis[src] = true;
-        while(!q.isEmpty()){
-            int poll = q.poll();
-            for(int i=0;i<isConnected.length;i++){
-                if(isConnected[poll][i]==1 && !isVis[i]){
-                    isVis[i] = true;
-                    q.add(i);
-                }
-            }
-        }
     }
     // class Pair{
     //     int row;
@@ -34,9 +34,8 @@ class Solution {
     //         this.col = col;
     //     }
     // }
-    // public void bfs(int[][] isConnected,int row, int col,boolean[][] isVis){
-    //     int m = isConnected.length;
-    //     int n = isConnected[0].length;
+    // public void bfs(int[][] isConnected,int row,int col,boolean[][] isVis){
+    //     int n = isConnected.length;
     //     Queue<Pair> q = new LinkedList<>();
     //     q.add(new Pair(row,col));
     //     isVis[row][col] = true;
@@ -44,16 +43,19 @@ class Solution {
     //         Pair p = q.poll();
     //         int currRow = p.row;
     //         int currCol = p.col;
-    //         int[] remRow = {1,-1,0,0};
-    //         int[] remCol = {0,0,-1,1};
+    //         int[] remRow = {1,0,-1,0};
+    //         int[] remCol = {0,-1,0,1};
     //         for(int i=0;i<4;i++){
     //             int newRow = remRow[i] + currRow;
     //             int newCol = remCol[i] + currCol;
-    //             if(newRow>=0 && newCol>=0 && newRow<m && newCol<n && isConnected[newRow][newCol]==1 && !isVis[newRow][newCol]){
+    //             if(newRow>=0 && newCol>=0 && newRow<m && new)
+    //             if(newRow>=0 && newCol>=0 && newRow<m && new)
+    //             if(newRow>=0 && newCol>=0 && newRow<m && newCol<n && !isVis[newRow][newCol] && isConnected[newRow][newCol]==){
     //                 q.add(new Pair(newRow,newCol));
     //                 isVis[newRow][newCol] = true;
     //             }
     //         }
     //     }
+
     // }
 }
