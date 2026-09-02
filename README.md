@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Priyanshuraman5/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/Priyanshuraman5/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Priyanshuraman5/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Priyanshuraman5/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
