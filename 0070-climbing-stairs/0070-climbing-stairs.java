@@ -1,18 +1,16 @@
 class Solution {
+    Integer[] dp;
     public int climbStairs(int n) {
-        if(n<1) return 0;
-        int[]dp = new int[n+1];
-        dp[0]  = 1;
-        dp[1] = 1;
-        for(int i=2;i<=n;i++){
-            dp[i] = dp[i-1] + dp[i-2];
-        }
-
-        return dp[n];
+        dp = new Integer[n+1];
+        return helper(n,0);
     }
-    // public int helper(int n){
-    //     if(n<0) return 0;
-    //     if(n==0) return 1;
-    //     return helper(n-1) + helper(n-2);
-    // }
+    public int helper(int n,int idx){
+        if(idx>n) return 0;
+        if(idx==n) return 1;
+        if(dp[idx]!=null) return dp[idx];
+        int ways1 = helper(n,idx+1);
+        int ways2 = helper(n,idx+2);
+
+        return dp[idx] = ways1+ways2;
+    }
 }
