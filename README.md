@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Priyanshuraman5/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Priyanshuraman5/Leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshuraman5/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshuraman5/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshuraman5/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Priyanshuraman5/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Priyanshuraman5/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Priyanshuraman5/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshuraman5/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Priyanshuraman5/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshuraman5/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -521,4 +523,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Priyanshuraman5/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshuraman5/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
